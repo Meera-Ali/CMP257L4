@@ -1,0 +1,46 @@
+
+.container-fluid {
+    background-color:rgb(230, 160, 95);
+    
+}
+.card-body{
+    background-color: bisque;
+
+}
+html {
+	background-color: azure;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+	background-color: aliceblue;
+}
+
+form {
+	background-color: rgba(255, 239, 219, 0.596);
+	font-size: small;
+	border-color: rgb(100, 170, 170);
+	border-width: 1rem;
+	border-style: solid;
+	padding: 10px 10px;
+}
+
+footer {
+	background-color: rgb(180, 203, 247);
+}
+
+h1 {
+	font-size: xx-large;
+	text-align: center;
+}
+
+h2 {
+	font-size: medium;
+}
+
+a:hover {
+	color: aliceblue;
+	font-size: large;
+}
+
+
